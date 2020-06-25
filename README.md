@@ -1,2 +1,3 @@
 # tweets-evaluator
-app to analyze tweets sentimental connotation
+Scripts to do sentimental analysis from arrays of tweets text and show some stadistics, 
+The tweets processed are obtained from tweets-harvester app
